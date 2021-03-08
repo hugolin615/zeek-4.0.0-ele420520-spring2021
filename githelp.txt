@@ -1,0 +1,7 @@
+echo "# zeek-4.0.0-ele420520-spring2021" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:hugolin615/zeek-4.0.0-ele420520-spring2021.git
+git push -u origin main
